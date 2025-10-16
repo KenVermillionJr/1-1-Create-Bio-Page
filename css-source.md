@@ -1,0 +1,122 @@
+```css
+/* Base */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  color: #0f172a;
+  background: #ffffff;
+}
+
+#site-header {
+  font-weight: bold;
+  padding: 24px 24px;
+  background: #eef2ff;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.profile-photo {
+  border: 1px solid #e5e7eb;
+  width: 150px;
+  padding: 16px;
+  margin: 16px 400px;
+  background: #ffffff;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.03);
+  border-radius: 8px;
+}
+
+#site-header h1 {
+  margin: 0 0 4px 0;
+}
+
+.role {
+  margin: 0;
+  color: #475569;
+}
+
+/* Page container */
+#page {
+  max-width: 980px;
+  margin: 24px auto;
+  padding: 0 16px;
+}
+
+/* Two-column layout via inline-block */
+#left {
+  display: inline-block;
+  width: 28%;
+  vertical-align: top;
+}
+
+#right {
+  display: inline-block;
+  width: 70%;
+  margin-left: 2%;
+  vertical-align: top;
+}
+
+/* Avatar + side column */
+#left .avatar {
+  display: block;
+  width: 100%;
+  max-width: 240px;
+  height: auto;
+  border-radius: 8px;
+  background: #e2e8f0;
+  border: 1px solid #cbd5e1;
+}
+
+#left .card:first-of-type {
+  margin-top: 12px;
+}
+
+/* Cards */
+.card {
+  border: 1px solid #e5e7eb;
+  width: 30%;
+  padding: 16px;
+  margin: 16px 400px;
+  background: #ffffff;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.03);
+  border-radius: 8px;
+}
+
+.card h2 {
+  margin: 0 0 8px 0;
+  color: #111827;
+}
+
+.card p,
+.card li,
+.card small {
+  color: #334155;
+}
+
+/* Typography */
+h1 {
+  font-size: 32px;
+  color: #0f172a;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+li {
+  margin: 4px 0 auto 10px;
+}
+
+/* Footer */
+#site-footer {
+  text-align: center;
+  padding: 5px;
+  border-top: 1px solid #e5e7eb;
+  border-bottom: 1px solid #e5e7eb;
+  color: #64748b;
+  margin-top: 32px;
+}
+```
