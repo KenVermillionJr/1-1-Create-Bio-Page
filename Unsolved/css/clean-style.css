@@ -7,7 +7,8 @@ background: #ffffff;
 }
 
 #site-header {
-padding: 32px 24px;
+font-weight:bold;
+padding: 24px 24px;
 background: #eef2ff;
 border-bottom: 1px solid #e2e8f0;
 
@@ -94,7 +95,7 @@ line-height: 1.6;
 }
 
 li {
-margin: 4px 0;
+margin: 4px 0 auto 10px;
 }
 
 /* Footer */
