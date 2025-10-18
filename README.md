@@ -1,5 +1,5 @@
 # Mini-Project: Bio Page from Screenshot
-Solved: <a href="https://raw.githack.com/KenVermillionJr/1-1-Create-Bio-Page/refs/heads/main/index.html">View Bio Page Live Page</a>
+Solved: <a href="https://raw.githack.com/KenVermillionJr/1-1-Create-Bio-Page/refs/heads/main/index.html">View Bio Page Live</a>
 
 ## Objective
 Recreate a simple **one-page bio** from the provided screenshot mockup using HTML + CSS.
