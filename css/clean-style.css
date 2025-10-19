@@ -35,6 +35,14 @@ body {
     border: 1px solid #cbd5e1;
 }
 
+ul {
+    display: block;
+    list-style-type: circle;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    padding-inline-start: 40px;
+}
+
 /* Cards */
 .card {
     border: 1px solid #e5e7eb;
