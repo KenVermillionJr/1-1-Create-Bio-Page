@@ -10,6 +10,7 @@ body {
     padding: 32px 24px;
     background: #eef2ff;
     border-bottom: 1px solid #e2e8f0;
+    font-weight: bold;
 }
 
 #site-header h1 {
@@ -66,8 +67,6 @@ body {
 /* Cards */
 .cardli {
     border: 1px solid #e5e7eb;
-    /* padding: 16px; */
-    /* margin: 16px 0; */
     background: #ffffff;
     box-shadow: 0 1px 0 rgba(0, 0, 0, 0.03);
     border-radius: 8px;
