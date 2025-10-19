@@ -8,8 +8,8 @@ body {
 
 #site-header {
     padding: 32px 24px;
-    background: rgba(211, 211, 211, 0.774);
-    border-bottom: 1px solid #e2e8f0;
+    background: #f7f7f7;
+    border-bottom: 1px solid #000000;
     font-weight: bold;
 }
 
@@ -23,6 +23,7 @@ body {
     max-width: 980px;
     margin-left: 1.5em;
     padding: 0 16px;
+    background-color:
 }
 
 .profile {
@@ -75,7 +76,8 @@ ul {
 #site-footer {
     text-align: center;
     padding: 20px;
-    border-top: 1px solid #e5e7eb;
+    border-top: 1px solid #000000;
     color: #64748b;
+    background-color: #f7f7f7;
     margin-top: 32px;
 }
