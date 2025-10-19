@@ -53,10 +53,6 @@ body {
     border: 1px solid #cbd5e1;
 }
 
-#left .card:first-of-type {
-    margin-top: 12px;
-}
-
 /* Cards */
 .card {
     border: 1px solid #e5e7eb;
@@ -67,15 +63,14 @@ body {
     border-radius: 8px;
 }
 
-.card h2 {
-    margin: 0 0 8px 0;
-    color: #111827;
-}
-
-.card p,
-.card li,
-.card small {
-    color: #334155;
+/* Cards */
+.cardli {
+    border: 1px solid #e5e7eb;
+    /* padding: 16px; */
+    /* margin: 16px 0; */
+    background: #ffffff;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.03);
+    border-radius: 8px;
 }
 
 /* Typography */
@@ -91,10 +86,6 @@ h2 {
 p {
     font-size: 16px;
     line-height: 1.6;
-}
-
-li {
-    margin: 4px 0;
 }
 
 /* Footer */
