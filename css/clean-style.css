@@ -5,6 +5,7 @@ body {
     color: #0f172a;
     background-color: #FCF5E5;
     background: url(../parchmentbg.png);
+    background-repeat: no-repeat;
 }
 
 #site-header {
