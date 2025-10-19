@@ -17,11 +17,6 @@ body {
     margin: 0 0 4px 0;
 }
 
-.role {
-    margin: 0;
-    color: #475569;
-}
-
 /* Page container */
 #page {
     max-width: 980px;
@@ -66,25 +61,8 @@ body {
 
 /* Cards */
 .cardli {
-    border: 1px solid #e5e7eb;
-    background: #ffffff;
-    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.03);
-    border-radius: 8px;
-}
-
-/* Typography */
-h1 {
-    font-size: 32px;
-    color: #0f172a;
-}
-
-h2 {
-    font-size: 20px;
-}
-
-p {
-    font-size: 16px;
-    line-height: 1.6;
+    padding: 16px;
+    margin: auto;
 }
 
 /* Footer */
