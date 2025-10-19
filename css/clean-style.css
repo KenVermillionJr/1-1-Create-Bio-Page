@@ -55,8 +55,19 @@ ul {
 
 /* Cards */
 .cardli {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    padding-inline-start: 40px;
     padding: 16px;
     margin: auto;
+}
+
+.cardli h3 {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    padding-inline-start: 40px;
+    padding: 0;
+    margin-left: -0.75em;
 }
 
 /* Footer */
