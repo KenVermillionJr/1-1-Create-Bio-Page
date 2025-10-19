@@ -14,7 +14,7 @@ body {
 }
 
 #site-header h1 {
-    margin: auto;
+    margin: 100%;
 
     /* Page container */
     #page {
