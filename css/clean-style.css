@@ -3,8 +3,9 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     color: #0f172a;
-    /* background-image: url("paper.gif"); */
     background-color: #FCF5E5;
+    /* background-image: radial-gradient(red, blue); */
+    background: url(../ivorypaper.jpg) no-repeat center center fixed;
 }
 
 #site-header {
