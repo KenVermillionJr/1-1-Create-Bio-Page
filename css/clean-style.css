@@ -32,9 +32,9 @@ body {
     max-width: 240px;
     height: auto;
     border-radius: 8px;
-    box-shadow: 1px 1px 1px black;
+    box-shadow: 3px 3px 3px black;
     background: #e2e8f0;
-    border: 1px solid #cbd5e1;
+    border: 2px solid #cbd5e1;
 }
 
 ul {
@@ -47,11 +47,11 @@ ul {
 
 /* Cards */
 .card {
-    border: 1px solid #000000;
+    border: 2px solid #000000;
     padding: 16px;
     margin: 16px 0;
     background: #ffffff;
-    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.03);
+    box-shadow: 3px 3px 3px black;
     border-radius: 8px;
 }
 
