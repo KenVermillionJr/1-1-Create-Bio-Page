@@ -14,67 +14,66 @@ body {
 }
 
 #site-header h1 {
-    margin: 0 0 4px 0;
-}
-
-/* Page container */
-#page {
-    max-width: 980px;
-    margin: 24px auto;
-    padding: 0 16px;
-}
-
-.profile {
-    display: block;
-    width: 150px;
-    max-width: 240px;
-    height: auto;
-    border-radius: 8px;
-    box-shadow: 1px 1px 1px black;
-    background: #e2e8f0;
-    border: 1px solid #cbd5e1;
-}
-
-ul {
-    display: block;
-    list-style-type: circle;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    padding-inline-start: 40px;
-}
-
-/* Cards */
-.card {
-    border: 1px solid #000000;
-    padding: 16px;
-    margin: 16px 0;
-    background: #ffffff;
-    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.03);
-    border-radius: 8px;
-}
-
-/* Cards */
-.cardli {
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    padding-inline-start: 40px;
-    padding: 16px;
     margin: auto;
-}
 
-.cardli h3 {
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    padding-inline-start: 40px;
-    padding: 0;
-    margin-left: -0.75em;
-}
+    /* Page container */
+    #page {
+        max-width: 980px;
+        margin: 24px auto;
+        padding: 0 16px;
+    }
 
-/* Footer */
-#site-footer {
-    text-align: center;
-    padding: 20px;
-    border-top: 1px solid #e5e7eb;
-    color: #64748b;
-    margin-top: 32px;
-}
+    .profile {
+        display: block;
+        width: 150px;
+        max-width: 240px;
+        height: auto;
+        border-radius: 8px;
+        box-shadow: 1px 1px 1px black;
+        background: #e2e8f0;
+        border: 1px solid #cbd5e1;
+    }
+
+    ul {
+        display: block;
+        list-style-type: circle;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        padding-inline-start: 40px;
+    }
+
+    /* Cards */
+    .card {
+        border: 1px solid #000000;
+        padding: 16px;
+        margin: 16px 0;
+        background: #ffffff;
+        box-shadow: 0 2px 0 rgba(0, 0, 0, 0.03);
+        border-radius: 8px;
+    }
+
+    /* Cards */
+    .cardli {
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        padding-inline-start: 40px;
+        padding: 16px;
+        margin: auto;
+    }
+
+    .cardli h3 {
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        padding-inline-start: 40px;
+        padding: 0;
+        margin-left: -0.75em;
+    }
+
+    /* Footer */
+    #site-footer {
+        text-align: center;
+        padding: 20px;
+        border-top: 1px solid #e5e7eb;
+        color: #64748b;
+        margin-top: 32px;
+    }
