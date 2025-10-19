@@ -5,7 +5,7 @@ body {
     color: #0f172a;
     background-color: #FCF5E5;
     /* background-image: radial-gradient(red, blue); */
-    background: url(../ivorypaper.jpg) no-repeat center center fixed;
+    background: url(../ivorypaper.jpg);
 }
 
 #site-header {
