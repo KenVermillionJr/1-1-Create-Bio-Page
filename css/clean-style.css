@@ -33,9 +33,9 @@ body {
     max-width: 240px;
     height: auto;
     border-radius: 8px;
-    box-shadow: 3px 3px 3px black;
+    box-shadow: 2px 2px 2px black;
     background: #e2e8f0;
-    border: 2px solid #cbd5e1;
+    border: 2px solid black;
 }
 
 ul {
