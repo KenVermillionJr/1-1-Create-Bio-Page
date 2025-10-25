@@ -10,7 +10,7 @@ body {
 
 #site-header {
     padding: 32px 24px;
-    background: #f7f7f7;
+    background: goldenrod;
     border-bottom: 1px solid #000000;
     font-weight: bold;
 }
@@ -79,7 +79,6 @@ ul {
     padding: 20px;
     border-top: 1px solid #000000;
     border-bottom: 1px solid #000000;
-    color: #64748b;
-    background-color: #f7f7f7;
-    margin-top: 32px;
+    color: black;
+    background-color: goldenrod;
 }
