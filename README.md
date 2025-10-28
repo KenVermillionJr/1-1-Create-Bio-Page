@@ -1,6 +1,6 @@
 # Mini-Project: Bio Page from Screenshot
 Solved: 
-<a href="https://raw.githack.com/KenVermillionJr/1-1-Create-Bio-Page/refs/heads/main/index.html">View Bio Page (via githack)</a> 
+<a href="https://raw.githack.com/KenVermillionJr/1-1-Create-Bio-Page/refs/heads/main/index.html">View Bio Page (via githack)</a>  <br>
 <a href="https://kenvermillionjr.github.io/1-1-Create-Bio-Page/">View Bio Page (via gitbub live pages)</a>
 
 ## Objective
